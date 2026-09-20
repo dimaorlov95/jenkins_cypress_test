@@ -1,0 +1,12 @@
+{
+  "username": "theUser",
+  "expectedData": {
+    "id": 10,
+    "username": "theUser",
+    "firstName": "John",
+    "lastName": "James",
+    "password": "12345",
+    "phone": "12345",
+    "userStatus": 1
+  }
+}
